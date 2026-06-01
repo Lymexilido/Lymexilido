@@ -1,9 +1,14 @@
 ## HOLA MUNDO 👋
 
 :computer: **Programadora**
+
 :monkey: **Licenciada en Biología**
+
 :book: **Estudiante ingenieria de sistemas**
+
 :robot: **Amante de la naturaleza y la tecnología**
+
+
 
 ### Vias de contacto
 
