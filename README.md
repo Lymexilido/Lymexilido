@@ -1,5 +1,7 @@
 ## HOLA MUNDO 👋
 
+Hola, soy Ingrid. Soy bióloga de formación, con una profunda pasión por la ciencia. En mis tiempos libres, he desarrollado habilidades sólidas en programación, especialmente con Java, aplicando estos conocimientos a proyectos de análisis de datos
+
 :computer: **Programadora**
 
 :monkey: **Licenciada en Biología**
