@@ -1,16 +1,9 @@
-## HOLA MUNDO 👋
+## HI PEOPLE 👋
 
-Hola, soy Ingrid. Soy bióloga de formación, con una profunda pasión por la ciencia. En mis tiempos libres, he desarrollado habilidades sólidas en programación, especialmente con Java, aplicando estos conocimientos a proyectos de análisis de datos
+HI THERE!
 
-:computer: **Programadora**
-
-:monkey: **Licenciada en Biología**
-
-:book: **Estudiante ingenieria de sistemas**
-
-:robot: **Amante de la naturaleza y la tecnología**
-
-
+:monkey: My name is Ingri and i'm a Biologist and Software engineer, currently work and learn in some technologies 
+like JAVA ☕ with its framework spring boot 🍃, python 🐍 with libraries matplotlib ➕, pandas 🐼 and bioPython 🍆:, front with php, HTML5, CSS.   
 
 ### Vias de contacto
 
