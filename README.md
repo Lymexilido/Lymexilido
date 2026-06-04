@@ -3,7 +3,7 @@
 HI THERE!
 
 :monkey: My name is Ingri and i'm a Biologist and Software engineer, currently work and learn in some technologies 
-like JAVA ☕ with its framework spring boot 🍃, python 🐍 with libraries matplotlib ➕, pandas 🐼 and bioPython 🍆:, front with php, HTML5, CSS.   
+like JAVA ☕ with its framework spring boot 🍃, python 🐍 with libraries matplotlib ➕, pandas 🐼 and bioPython 🍆, frontend with php, HTML5, CSS.   
 
 ### Vias de contacto
 
